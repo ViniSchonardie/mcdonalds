@@ -6,4 +6,4 @@ https://expo.dev/@vinischo/mcdonalds-menu?serviceType=classic&distribution=expo-
 
 exp://exp.host/@vinischo/mcdonalds-menu?release-channel=default
 
-Video:
+Video: https://drive.google.com/file/d/1tvQc0dWA5-jSrKF5cqSWr3Gr5ArOof25/view?usp=sharing
